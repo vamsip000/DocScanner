@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.DocScanner" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorPrimaryVariant">#115293</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
